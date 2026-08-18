@@ -24,7 +24,7 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,227 | 🐛 51 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/spectralops/teller> ⭐ 3,228 | 🐛 51 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
 * <https://github.com/starkandwayne/safe> ⭐ 421 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
 * <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-04-29 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
@@ -40,7 +40,7 @@ Awesome tools around HashiCorp Vault
 
 # Users
 
-* <https://github.com/Lingrino/vaku> ⭐ 160 | 🐛 1 | 🌐 Go | 📅 2026-08-04 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
+* <https://github.com/Lingrino/vaku> ⭐ 160 | 🐛 1 | 🌐 Go | 📅 2026-08-17 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 * <https://github.com/apptio/breakglass> ⚠️ Archived - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
 * <https://github.com/Mykolaichenko/vaulter> ⭐ 26 | 🐛 2 | 🌐 Go | 📅 2020-01-14 - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 * <https://github.com/ilijamt/vht/> ⭐ 8 | 🐛 8 | 🌐 Go | 📅 2026-04-03 - vht extends the functionality of Vault and adds searching, tree and recursive deletes.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
