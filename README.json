@@ -222,7 +222,7 @@
             "last_commit": "2026-01-27T18:13:10Z",
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3228
+            "stars": 3227
           }
         },
         {
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:35:25.940Z",
+    "last_updated": "2026-08-22T04:30:17.082Z",
     "original_repository": "gites/awesome-vault-tools",
     "original_repository_id": 115713073,
     "original_repository_sha": "f3d5d748afc068a2b8490c28fede9e32bea8bfbc",
