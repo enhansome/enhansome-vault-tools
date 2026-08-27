@@ -713,9 +713,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:37:22.014Z",
-    "original_repository": "gites/awesome-vault-tools",
-    "original_repository_id": 115713073,
+    "last_updated": "2026-08-27T12:08:23.346Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115713073,
+      "language": null,
+      "last_commit": "2023-05-09T10:38:27Z",
+      "owner": "gites",
+      "repo": "awesome-vault-tools",
+      "stars": 313
+    },
     "original_repository_sha": "f3d5d748afc068a2b8490c28fede9e32bea8bfbc",
     "enhanced_repository": "enhansome/enhansome-vault-tools",
     "enhanced_repository_description": null,
