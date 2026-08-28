@@ -16,7 +16,8 @@
             "owner": "Caiyeon",
             "repo": "goldfish",
             "stars": 2127
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "djenriquez",
             "repo": "vault-ui",
             "stars": 1313
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "adobe",
             "repo": "cryptr",
             "stars": 509
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nyxcharon",
             "repo": "vault-ui",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "UI"
@@ -82,7 +86,8 @@
             "owner": "sethvargo",
             "repo": "vault-secrets-gen",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "sethvargo",
             "repo": "vault-auth-slack",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "fcantournet",
             "repo": "kubernetes-flexvolume-vault-plugin",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "idcmp",
             "repo": "vault-plugin-secrets-webhook",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "gites",
             "repo": "vault-auth-file",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "nhuff",
             "repo": "vault-plugin-auth-chefnode",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "criteo",
             "repo": "vault-auth-plugin-chef",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "svagner",
             "repo": "vault-auth-chef",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "Plugins"
@@ -222,8 +235,9 @@
             "last_commit": "2026-01-27T18:13:10Z",
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3227
-          }
+            "stars": 3226
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "egen",
             "repo": "safe",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "avantoss",
             "repo": "vault-infra",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "seatgeek",
             "repo": "hashi-helper",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "jaxxstorm",
             "repo": "hookpick",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "jaxxstorm",
             "repo": "unseal",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "bincyber",
             "repo": "pkictl",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "cloudwatt",
             "repo": "vault-sync",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "UKHomeOffice",
             "repo": "vaultctl",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "martinbaillie",
             "repo": "vaultsign",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "hootsuite",
             "repo": "vault-ctrl-tool",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "paywithcurl",
             "repo": "vault-update",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "Ops"
@@ -409,7 +434,8 @@
             "owner": "lingrino",
             "repo": "vaku",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "apptio",
             "repo": "breakglass",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "Mykolaichenko",
             "repo": "vaulter",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "ilijamt",
             "repo": "vht",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "Users"
@@ -475,7 +504,8 @@
             "owner": "Boostport",
             "repo": "kubernetes-vault",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "kelseyhightower",
             "repo": "vault-controller",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "cruise-automation",
             "repo": "daytona",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "sethvargo",
             "repo": "vault-kubernetes-authenticator",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "UKHomeOffice",
             "repo": "vault-sidekick",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "uswitch",
             "repo": "vault-creds",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "postfinance",
             "repo": "vault-kubernetes",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "uswitch",
             "repo": "vault-webhook",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "postfinance",
             "repo": "kubectl-vault_sync",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "banzaicloud",
             "repo": "bank-vaults",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "keyparty",
             "repo": "vault-init",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "K8s"
@@ -661,7 +702,8 @@
             "owner": "channable",
             "repo": "vaultenv",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "asteris-llc",
             "repo": "vaultfs",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "joemiller",
             "repo": "vault-token-helper",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         },
         {
           "node_type": "item",
@@ -706,14 +750,15 @@
             "owner": "gites",
             "repo": "vault-cert-helper",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:54:29.546Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:59:02.073Z",
+    "last_updated": "2026-08-28T15:54:29.546Z",
     "original_repository_info": {
       "archived": false,
       "id": 115713073,
