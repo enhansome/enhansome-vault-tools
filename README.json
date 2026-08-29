@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A HashiCorp Vault UI written with VueJS and Vault native Go API",
+            "homepage": "https://vault-ui.io",
             "id": 79487641,
             "language": "Vue",
+            "license": "MPL-2.0",
             "last_commit": "2018-09-05T03:18:53Z",
+            "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2127
+            "stars": 2127,
+            "topics": [
+              "bulma-css",
+              "go",
+              "golang",
+              "hashicorp-vault",
+              "vault",
+              "vault-ui",
+              "vue-admin",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -26,12 +40,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vault-UI — A beautiful UI to manage your Vault, written in React",
+            "homepage": null,
             "id": 72892496,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-06T16:39:40Z",
+            "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1313
+            "stars": 1313,
+            "topics": [
+              "devops",
+              "docker",
+              "hashicorp",
+              "react",
+              "ui",
+              "vault",
+              "vault-ui"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -42,12 +69,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cryptr: a GUI for Hashicorp's Vault",
+            "homepage": null,
             "id": 55248777,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-17T17:01:39Z",
+            "open_issues": 11,
             "owner": "adobe",
             "repo": "cryptr",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "gui",
+              "hashicorp",
+              "hashicorp-vault",
+              "password-manager",
+              "passwords",
+              "secret-management",
+              "secret-storage",
+              "secrets",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -58,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A webapp for working with Hashicorp's Vault https://github.com/hashicorp/vault",
+            "homepage": null,
             "id": 49090758,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-05T18:38:32Z",
+            "open_issues": 10,
             "owner": "nyxcharon",
             "repo": "vault-ui",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -80,12 +127,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Vault secrets plugin for generating high entropy passwords and passphrases.",
+            "homepage": null,
             "id": 110276392,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-01T14:46:55Z",
+            "open_issues": 4,
             "owner": "sethvargo",
             "repo": "vault-secrets-gen",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "diceware",
+              "password",
+              "password-generator",
+              "secrets",
+              "vault",
+              "vault-plugin"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -96,12 +155,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create ephemeral, finely-scoped @github access tokens using @hashicorp Vault.",
+            "homepage": "https://martin.baillie.id/wrote/ephemeral-github-tokens-via-hashicorp-vault/",
             "id": 223704264,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-13T23:07:09Z",
+            "open_issues": 10,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "github",
+              "github-apps",
+              "hashicorp",
+              "hashicorp-vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -112,12 +181,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A @HashiCorp Vault plugin for authenticating and receiving policies via Slack.",
+            "homepage": null,
             "id": 106126954,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-10T13:02:47Z",
+            "open_issues": 0,
             "owner": "sethvargo",
             "repo": "vault-auth-slack",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "hashicorp",
+              "security",
+              "slack",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -128,12 +207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A kubernetes flexvolume plugin that injects vault tokens at pod creation",
+            "homepage": null,
             "id": 73300087,
             "language": "Go",
+            "license": null,
             "last_commit": "2019-06-10T08:27:39Z",
+            "open_issues": 0,
             "owner": "fcantournet",
             "repo": "kubernetes-flexvolume-vault-plugin",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "deprecated",
+              "flexvolume-driver",
+              "kubelet",
+              "kubernetes",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -144,12 +234,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webhook plugin for HashiCorp Vault",
+            "homepage": null,
             "id": 136775094,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-17T06:45:20Z",
+            "open_issues": 1,
             "owner": "idcmp",
             "repo": "vault-plugin-secrets-webhook",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "hashicorp",
+              "plugin",
+              "vault",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -160,12 +260,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HashiCorp Vault authentication plugin for authenticating via Unix password like file",
+            "homepage": null,
             "id": 119066031,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-02T09:22:45Z",
+            "open_issues": 0,
             "owner": "gites",
             "repo": "vault-auth-file",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "auth",
+              "file",
+              "password",
+              "plugin",
+              "vault",
+              "vault-plugins"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -176,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vault authentication plugin for authenticating to a chef server",
+            "homepage": null,
             "id": 101582522,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-12-08T17:43:41Z",
+            "open_issues": 1,
             "owner": "nhuff",
             "repo": "vault-plugin-auth-chefnode",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -192,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 131860919,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-15T14:58:13Z",
+            "open_issues": 0,
             "owner": "criteo",
             "repo": "vault-auth-plugin-chef",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -208,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chef authorization plugin for Hashicorp Vault",
+            "homepage": null,
             "id": 135472449,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-08-27T17:28:33Z",
+            "open_issues": 2,
             "owner": "svagner",
             "repo": "vault-auth-chef",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -230,12 +357,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud native secrets management for developers - never leave your command line for secrets.",
+            "homepage": "https://github.com/tellerops/teller",
             "id": 351043495,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T18:13:10Z",
+            "open_issues": 51,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3226
+            "stars": 3226,
+            "topics": [
+              "aws",
+              "hashicorp",
+              "rust",
+              "rust-lang",
+              "secret-management",
+              "secrets",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -246,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vault CLI",
+            "homepage": null,
             "id": 51417314,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-16T20:24:00Z",
+            "open_issues": 19,
             "owner": "egen",
             "repo": "safe",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -262,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform to create Vault infrastructure",
+            "homepage": null,
             "id": 107568944,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-04-29T18:00:47Z",
+            "open_issues": 0,
             "owner": "avantoss",
             "repo": "vault-infra",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -278,12 +428,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disaster Recovery and Configuration Management for Consul and Vault",
+            "homepage": null,
             "id": 84939012,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-25T23:00:46Z",
+            "open_issues": 12,
             "owner": "seatgeek",
             "repo": "hashi-helper",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "configuration-management",
+              "consul",
+              "consul-service",
+              "disaster-recovery",
+              "hashicorp",
+              "hashicorp-vault",
+              "vault",
+              "vault-secrets",
+              "vault-server"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -294,12 +459,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool to manage some operational concepts of Hashicorp Vault",
+            "homepage": null,
             "id": 100648833,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-03-03T16:30:55Z",
+            "open_issues": 5,
             "owner": "jaxxstorm",
             "repo": "hookpick",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "consul",
+              "golang",
+              "hashicorp",
+              "hashicorp-vault",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -310,12 +486,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A command line tool to unseal multiple Hashicorp Vault servers quickly",
+            "homepage": null,
             "id": 83954990,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-09-28T20:25:08Z",
+            "open_issues": 3,
             "owner": "jaxxstorm",
             "repo": "unseal",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "golang",
+              "unseals-vault-servers",
+              "vault",
+              "vault-api",
+              "vault-consul"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -326,12 +513,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declaratively provision PKI with HashiCorp Vault",
+            "homepage": null,
             "id": 155019535,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2019-11-19T19:08:53Z",
+            "open_issues": 0,
             "owner": "bincyber",
             "repo": "pkictl",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "certificate-authority",
+              "devops-tools",
+              "hashicorp-vault",
+              "pki",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -342,12 +540,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool to sync dynamic configuration from files to Hashicorp Vault",
+            "homepage": null,
             "id": 78024617,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-09-19T12:47:34Z",
+            "open_issues": 3,
             "owner": "cloudwatt",
             "repo": "vault-sync",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cli",
+              "config",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -358,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hashcorp Vault provisoner",
+            "homepage": null,
             "id": 52261792,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-16T17:19:14Z",
+            "open_issues": 2,
             "owner": "UKHomeOffice",
             "repo": "vaultctl",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -374,12 +586,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sign/verify git commits using HashiCorp Vault.",
+            "homepage": "https://martin.baillie.id/wrote/git-signature-operations-via-hashicorp-vault/",
             "id": 300814624,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-03-11T14:06:42Z",
+            "open_issues": 12,
             "owner": "martinbaillie",
             "repo": "vaultsign",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "git",
+              "gpg",
+              "hashicorp",
+              "supplychain",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -390,12 +613,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tool for managing authentication, secrets, and leases for services.",
+            "homepage": null,
             "id": 198483074,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-30T14:15:20Z",
+            "open_issues": 6,
             "owner": "hootsuite",
             "repo": "vault-ctrl-tool",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "hashicorp",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -406,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allow updating of a key for a secret ",
+            "homepage": null,
             "id": 105274990,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-02-15T23:49:58Z",
+            "open_issues": 1,
             "owner": "paywithcurl",
             "repo": "vault-update",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -428,12 +664,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vaku extends the vault api & cli",
+            "homepage": "https://seanlingren.com",
             "id": 130797787,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:19:44Z",
+            "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "cli",
+              "go",
+              "golang",
+              "vault",
+              "vault-api",
+              "vault-client"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -444,12 +692,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A command line tool to provide login credentials from Hashicorp Vault",
+            "homepage": null,
             "id": 103551724,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-10-12T16:31:55Z",
+            "open_issues": 2,
             "owner": "apptio",
             "repo": "breakglass",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "ease",
+              "golang",
+              "golang-application",
+              "hashicorp-vault",
+              "mysql-server",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -460,12 +720,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68907925,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-01-14T14:54:41Z",
+            "open_issues": 2,
             "owner": "Mykolaichenko",
             "repo": "vaulter",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "automation",
+              "devops",
+              "hashicorp",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -476,12 +746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small tool written in go when you need to search your vault.",
+            "homepage": null,
             "id": 213866919,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-03T03:37:42Z",
+            "open_issues": 8,
             "owner": "ilijamt",
             "repo": "vht",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -498,12 +773,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use Vault to store secrets for Kubernetes!",
+            "homepage": null,
             "id": 74663841,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-15T22:59:29Z",
+            "open_issues": 0,
             "owner": "Boostport",
             "repo": "kubernetes-vault",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "kubernetes",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -514,12 +797,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Kubernetes secrets from Vault for a secure GitOps based workflow.",
+            "homepage": null,
             "id": 204312226,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-13T04:43:55Z",
+            "open_issues": 15,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "crd",
+              "gitops",
+              "helm-chart",
+              "kubernetes",
+              "kubernetes-secrets",
+              "operator-sdk",
+              "secret",
+              "secrets",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -530,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate the creation of unique Vault tokens for Kubernetes Pods using init containers.",
+            "homepage": null,
             "id": 72229093,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-04T18:41:43Z",
+            "open_issues": 11,
             "owner": "kelseyhightower",
             "repo": "vault-controller",
-            "stars": 443
+            "stars": 443,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -546,12 +849,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vault client, but for containers and servers.",
+            "homepage": null,
             "id": 183536334,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-28T17:38:02Z",
+            "open_issues": 17,
             "owner": "cruise-automation",
             "repo": "daytona",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "aws",
+              "gcp",
+              "go",
+              "kubernetes",
+              "secrets",
+              "secrets-management",
+              "security",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -562,12 +879,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An app and container for authenticating services to @HashiCorp Vault's via the Kubernetes auth method",
+            "homepage": null,
             "id": 136719614,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-11T01:01:11Z",
+            "open_issues": 1,
             "owner": "sethvargo",
             "repo": "vault-kubernetes-authenticator",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "hashicorp-vault",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -578,12 +903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vault sidekick",
+            "homepage": null,
             "id": 43013201,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-03T20:15:08Z",
+            "open_issues": 21,
             "owner": "UKHomeOffice",
             "repo": "vault-sidekick",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -594,12 +924,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sidecar container for requesting dynamic Vault database secrets",
+            "homepage": null,
             "id": 86077742,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T13:11:36Z",
+            "open_issues": 7,
             "owner": "uswitch",
             "repo": "vault-creds",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "kubernetes",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -610,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authenticate services to @hashicorp Vault via the Kubernetes auth method",
+            "homepage": null,
             "id": 159191255,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-03T12:33:13Z",
+            "open_issues": 11,
             "owner": "postfinance",
             "repo": "vault-kubernetes",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -626,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods",
+            "homepage": null,
             "id": 142571159,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-27T09:18:35Z",
+            "open_issues": 0,
             "owner": "uswitch",
             "repo": "vault-webhook",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -642,12 +990,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kubernetes plugin to synchronize secrets from vault as kubernetes secrets.",
+            "homepage": null,
             "id": 184741185,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-17T04:20:25Z",
+            "open_issues": 0,
             "owner": "postfinance",
             "repo": "kubectl-vault_sync",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "batch-job",
+              "kubernetes",
+              "kubernetes-secrets",
+              "secrets",
+              "sync",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -658,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).",
+            "homepage": "https://bank-vaults.dev",
             "id": 667831043,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T11:27:08Z",
+            "open_issues": 0,
             "owner": "banzaicloud",
             "repo": "bank-vaults",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -674,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K8s Init Container for Vault Token Generation and Retrieval",
+            "homepage": null,
             "id": 79028115,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-01-15T11:22:16Z",
+            "open_issues": 0,
             "owner": "keyparty",
             "repo": "vault-init",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -696,12 +1066,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Launch processes with Vault secrets in the environment",
+            "homepage": null,
             "id": 83536896,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-04T07:06:45Z",
+            "open_issues": 18,
             "owner": "channable",
             "repo": "vaultenv",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "gpbt"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -712,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vault filesystem (and Docker volume plugin)",
+            "homepage": null,
             "id": 49280379,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2016-11-29T01:58:35Z",
+            "open_issues": 6,
             "owner": "asteris-llc",
             "repo": "vaultfs",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -728,12 +1110,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "@Hashicorp Vault Token Helper for macOS, Linux and Windows with support for secure token storage and multiple Vault servers 🔐",
+            "homepage": null,
             "id": 189745278,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-05T08:59:10Z",
+            "open_issues": 17,
             "owner": "joemiller",
             "repo": "vault-token-helper",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "credentials",
+              "hashicorp-vault",
+              "helper",
+              "helper-tool",
+              "keychain",
+              "keyring",
+              "linux",
+              "macos",
+              "token",
+              "vault",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         },
@@ -744,12 +1143,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Vault-cert-helper is a simple tool intended to help you provision certificates from on-premises Vault to services running in AWS and GCE (or any other S3 compatible cloud).",
+            "homepage": null,
             "id": 148313801,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-13T13:25:52Z",
+            "open_issues": 0,
             "owner": "gites",
             "repo": "vault-cert-helper",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "aws",
+              "cert",
+              "gce",
+              "k8s",
+              "pki",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
         }
@@ -758,15 +1169,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:54:29.546Z",
+    "last_updated": "2026-08-29T04:46:02.562Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome tools around HashiCorp Vault",
+      "homepage": null,
       "id": 115713073,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2023-05-09T10:38:27Z",
+      "open_issues": 1,
       "owner": "gites",
       "repo": "awesome-vault-tools",
-      "stars": 313
+      "stars": 313,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hasicorp",
+        "tools",
+        "vault"
+      ]
     },
     "original_repository_sha": "f3d5d748afc068a2b8490c28fede9e32bea8bfbc",
     "enhanced_repository": "enhansome/enhansome-vault-tools",
