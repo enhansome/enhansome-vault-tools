@@ -366,7 +366,7 @@
             "open_issues": 51,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3226,
+            "stars": 3227,
             "topics": [
               "aws",
               "hashicorp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:47:43.902Z",
+    "last_updated": "2026-08-30T09:44:16.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",

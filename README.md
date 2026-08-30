@@ -24,7 +24,7 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,226 | 🐛 51 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/spectralops/teller> ⭐ 3,227 | 🐛 51 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
 * <https://github.com/starkandwayne/safe> ⭐ 421 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
 * <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-04-29 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
