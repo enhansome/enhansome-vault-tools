@@ -164,7 +164,7 @@
             "open_issues": 10,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "github",
               "github-apps",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:44:16.082Z",
+    "last_updated": "2026-08-31T10:32:10.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",

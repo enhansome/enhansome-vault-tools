@@ -13,7 +13,7 @@ Awesome tools around HashiCorp Vault
 # Plugins
 
 * <https://github.com/sethvargo/vault-secrets-gen> ⚠️ Archived - A Vault secrets plugin for generating high entropy passwords and passphrases.
-* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 318 | 🐛 10 | 🌐 Go | 📅 2025-11-13 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
+* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 319 | 🐛 10 | 🌐 Go | 📅 2025-11-13 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
 * <https://github.com/sethvargo/vault-auth-slack> ⚠️ Archived - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 * <https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin> ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-06-10 - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 * <https://github.com/idcmp/vault-plugin-secrets-webhook> ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2018-06-17 - Use Vault ACLs to control access to other REST APIs.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
