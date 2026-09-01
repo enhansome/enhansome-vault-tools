@@ -366,7 +366,7 @@
             "open_issues": 51,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3227,
+            "stars": 3228,
             "topics": [
               "aws",
               "hashicorp",
@@ -802,8 +802,8 @@
             "id": 204312226,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-13T04:43:55Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-01T02:54:44Z",
+            "open_issues": 17,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 685,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:32:10.661Z",
+    "last_updated": "2026-09-01T09:10:19.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
