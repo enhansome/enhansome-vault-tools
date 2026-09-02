@@ -50,7 +50,7 @@ Awesome tools around HashiCorp Vault
 *Note: There is now official plugin for k8s: <https://www.vaultproject.io/docs/auth/kubernetes.html>*
 
 * <https://github.com/Boostport/kubernetes-vault> ⚠️ Archived - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
-* <https://github.com/ricoberger/vault-secrets-operator> ⭐ 685 | 🐛 17 | 🌐 Go | 📅 2026-09-01 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+* <https://github.com/ricoberger/vault-secrets-operator> ⭐ 685 | 🐛 18 | 🌐 Go | 📅 2026-09-02 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * <https://github.com/kelseyhightower/vault-controller> ⭐ 443 | 🐛 11 | 🌐 Go | 📅 2019-10-04 - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
 * <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
