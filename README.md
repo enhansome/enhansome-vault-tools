@@ -56,7 +56,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 * <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 * <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-07-22 - Sidecar container for requesting dynamic Vault database secrets.
-* <https://github.com/postfinance/vault-kubernetes> ⭐ 79 | 🐛 11 | 🌐 Go | 📅 2026-07-03 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
+* <https://github.com/postfinance/vault-kubernetes> ⭐ 79 | 🐛 4 | 🌐 Go | 📅 2026-09-02 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
 * <https://github.com/uswitch/vault-webhook> ⭐ 25 | 🐛 0 | 🌐 Go | 📅 2026-04-27 - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods.
 * <https://github.com/postfinance/kubectl-vault_sync> ⚠️ Archived - Kubernetes plugin to synchronize secrets from vault as kubernetes secrets.
 * <https://github.com/banzaicloud/bank-vaults> ⚠️ Archived - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

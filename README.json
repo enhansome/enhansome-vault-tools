@@ -78,7 +78,7 @@
             "open_issues": 11,
             "owner": "adobe",
             "repo": "cryptr",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "gui",
               "hashicorp",
@@ -953,8 +953,8 @@
             "id": 159191255,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-07-03T12:33:13Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-02T12:59:46Z",
+            "open_issues": 4,
             "owner": "postfinance",
             "repo": "vault-kubernetes",
             "stars": 79,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:23:36.576Z",
+    "last_updated": "2026-09-03T08:33:08.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
@@ -1178,7 +1178,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2023-05-09T10:38:27Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "gites",
       "repo": "awesome-vault-tools",
       "stars": 313,
