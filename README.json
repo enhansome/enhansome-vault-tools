@@ -136,7 +136,7 @@
             "open_issues": 4,
             "owner": "sethvargo",
             "repo": "vault-secrets-gen",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "diceware",
               "password",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:33:08.974Z",
+    "last_updated": "2026-09-04T08:28:38.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
