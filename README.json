@@ -49,7 +49,7 @@
             "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1313,
+            "stars": 1312,
             "topics": [
               "devops",
               "docker",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:38:01.095Z",
+    "last_updated": "2026-09-10T08:39:28.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
