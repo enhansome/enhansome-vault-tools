@@ -1071,8 +1071,8 @@
             "id": 83536896,
             "language": "Haskell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-06-04T07:06:45Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-14T09:20:27Z",
+            "open_issues": 19,
             "owner": "channable",
             "repo": "vaultenv",
             "stars": 466,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:22:01.336Z",
+    "last_updated": "2026-09-14T09:34:21.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
