@@ -366,7 +366,7 @@
             "open_issues": 51,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3230,
+            "stars": 3229,
             "topics": [
               "aws",
               "hashicorp",
@@ -669,7 +669,7 @@
             "id": 130797787,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-24T16:19:44Z",
+            "last_commit": "2026-09-14T17:10:47Z",
             "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
@@ -1071,8 +1071,8 @@
             "id": 83536896,
             "language": "Haskell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T09:20:27Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-14T09:47:08Z",
+            "open_issues": 18,
             "owner": "channable",
             "repo": "vaultenv",
             "stars": 466,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:34:21.524Z",
+    "last_updated": "2026-09-15T09:12:15.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
