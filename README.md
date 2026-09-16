@@ -64,7 +64,7 @@ Awesome tools around HashiCorp Vault
 
 # Other
 
-* <https://github.com/channable/vaultenv> ⭐ 466 | 🐛 18 | 🌐 Haskell | 📅 2026-09-14 - Launch processes with Vault secrets in the environment.
+* <https://github.com/channable/vaultenv> ⭐ 467 | 🐛 18 | 🌐 Haskell | 📅 2026-09-14 - Launch processes with Vault secrets in the environment.
 * <https://github.com/asteris-llc/vaultfs> ⭐ 131 | 🐛 6 | 🌐 Go | 📅 2016-11-29 - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
 * <https://github.com/joemiller/vault-token-helper> ⭐ 117 | 🐛 17 | 🌐 Go | 📅 2023-04-05 - Vault Token Helper for macOS, Linux and Windows with support for secure token storage and multiple Vault instances
 * <https://github.com/gites/vault-cert-helper> ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2019-01-13 -
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
