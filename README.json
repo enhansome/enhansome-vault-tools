@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:13:02.493Z",
+    "last_updated": "2026-09-18T08:45:49.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
@@ -1181,7 +1181,7 @@
       "open_issues": 2,
       "owner": "gites",
       "repo": "awesome-vault-tools",
-      "stars": 313,
+      "stars": 314,
       "topics": [
         "awesome",
         "awesome-list",
