@@ -669,8 +669,8 @@
             "id": 130797787,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T17:10:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-21T07:28:15Z",
+            "open_issues": 2,
             "owner": "lingrino",
             "repo": "vaku",
             "stars": 160,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:04:25.291Z",
+    "last_updated": "2026-09-21T09:36:19.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
