@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2127,
+            "stars": 2128,
             "topics": [
               "bulma-css",
               "go",
@@ -669,8 +669,8 @@
             "id": 130797787,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T07:28:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-24T19:23:36Z",
+            "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
             "stars": 160,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:59:52.268Z",
+    "last_updated": "2026-09-25T09:22:56.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
