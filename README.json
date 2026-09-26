@@ -957,7 +957,7 @@
             "open_issues": 8,
             "owner": "postfinance",
             "repo": "vault-kubernetes",
-            "stars": 79,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:22:56.764Z",
+    "last_updated": "2026-09-26T09:07:01.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
