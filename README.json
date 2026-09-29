@@ -564,7 +564,7 @@
           "description": "Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Hashcorp Vault provisoner",
             "homepage": null,
             "id": 52261792,
@@ -673,7 +673,7 @@
             "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "cli",
               "go",
@@ -806,7 +806,7 @@
             "open_issues": 18,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 686,
+            "stars": 687,
             "topics": [
               "crd",
               "gitops",
@@ -953,8 +953,8 @@
             "id": 159191255,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:13:59Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-28T23:12:49Z",
+            "open_issues": 10,
             "owner": "postfinance",
             "repo": "vault-kubernetes",
             "stars": 78,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:34:23.373Z",
+    "last_updated": "2026-09-29T10:24:28.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",

@@ -32,7 +32,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/jaxxstorm/unseal> ⚠️ Archived - **\[deprecated]** A command line tool to unseal multiple Hashicorp Vault servers quickly.
 * <https://github.com/bincyber/pkictl> ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2019-11-19 - CLI tool for declaratively configuring and provisioning PKI secrets in HashiCorp Vault via Yaml.
 * <https://github.com/cloudwatt/vault-sync> ⭐ 31 | 🐛 3 | 🌐 Go | 📅 2017-09-19 - Vault-sync is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
-* <https://github.com/UKHomeOffice/vaultctl> ⭐ 30 | 🐛 2 | 🌐 Go | 📅 2016-03-16 - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
+* <https://github.com/UKHomeOffice/vaultctl> ⚠️ Archived - Vaultctl is a command line utilty for provisioning a Hashicorp's Vault from configuration files. Essentially it was written so we could source control our users, policies, backends and secrets, synchronize the vault against them and rebuild on-demand if required.
 * <https://github.com/martinbaillie/vaultsign> ⭐ 30 | 🐛 12 | 🌐 Rust | 📅 2023-03-11 - Sign and verify `git` commits and tags using Vault.
 * <https://github.com/hootsuite/vault-ctrl-tool> ⭐ 27 | 🐛 6 | 🌐 Go | 📅 2023-08-30 - Outsource authentication, secrets fetching, and lease management for services.
 * <https://github.com/paywithcurl/vault-update> ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2018-02-15 - Tool for updating a single key in vaullt secret.
@@ -40,7 +40,7 @@ Awesome tools around HashiCorp Vault
 
 # Users
 
-* <https://github.com/Lingrino/vaku> ⭐ 160 | 🐛 1 | 🌐 Go | 📅 2026-09-24 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
+* <https://github.com/Lingrino/vaku> ⭐ 161 | 🐛 1 | 🌐 Go | 📅 2026-09-24 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 * <https://github.com/apptio/breakglass> ⚠️ Archived - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
 * <https://github.com/Mykolaichenko/vaulter> ⭐ 26 | 🐛 2 | 🌐 Go | 📅 2020-01-14 - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 * <https://github.com/ilijamt/vht/> ⭐ 8 | 🐛 8 | 🌐 Go | 📅 2026-04-03 - vht extends the functionality of Vault and adds searching, tree and recursive deletes.
@@ -50,13 +50,13 @@ Awesome tools around HashiCorp Vault
 *Note: There is now official plugin for k8s: <https://www.vaultproject.io/docs/auth/kubernetes.html>*
 
 * <https://github.com/Boostport/kubernetes-vault> ⚠️ Archived - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
-* <https://github.com/ricoberger/vault-secrets-operator> ⭐ 686 | 🐛 18 | 🌐 Go | 📅 2026-09-02 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+* <https://github.com/ricoberger/vault-secrets-operator> ⭐ 687 | 🐛 18 | 🌐 Go | 📅 2026-09-02 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * <https://github.com/kelseyhightower/vault-controller> ⭐ 443 | 🐛 11 | 🌐 Go | 📅 2019-10-04 - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
 * <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 * <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 * <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-07-22 - Sidecar container for requesting dynamic Vault database secrets.
-* <https://github.com/postfinance/vault-kubernetes> ⭐ 78 | 🐛 8 | 🌐 Go | 📅 2026-09-07 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
+* <https://github.com/postfinance/vault-kubernetes> ⭐ 78 | 🐛 10 | 🌐 Go | 📅 2026-09-28 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
 * <https://github.com/uswitch/vault-webhook> ⭐ 25 | 🐛 0 | 🌐 Go | 📅 2026-04-27 - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods.
 * <https://github.com/postfinance/kubectl-vault_sync> ⚠️ Archived - Kubernetes plugin to synchronize secrets from vault as kubernetes secrets.
 * <https://github.com/banzaicloud/bank-vaults> ⚠️ Archived - A Vault swiss-army knife: Go client with automatic token renewal, Kubernetes support, dynamic secrets, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). A K8s operator.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
