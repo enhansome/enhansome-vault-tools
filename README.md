@@ -54,7 +54,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/kelseyhightower/vault-controller> ⭐ 443 | 🐛 11 | 🌐 Go | 📅 2019-10-04 - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
 * <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
-* <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
+* <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 20 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 * <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-07-22 - Sidecar container for requesting dynamic Vault database secrets.
 * <https://github.com/postfinance/vault-kubernetes> ⭐ 78 | 🐛 10 | 🌐 Go | 📅 2026-09-28 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
 * <https://github.com/uswitch/vault-webhook> ⭐ 25 | 🐛 0 | 🌐 Go | 📅 2026-04-27 - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

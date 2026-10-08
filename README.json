@@ -909,7 +909,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-07-03T20:15:08Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "UKHomeOffice",
             "repo": "vault-sidekick",
             "stars": 194,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:51:02.214Z",
+    "last_updated": "2026-10-08T11:08:36.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
