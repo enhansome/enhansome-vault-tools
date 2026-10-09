@@ -49,7 +49,7 @@
             "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1312,
+            "stars": 1313,
             "topics": [
               "devops",
               "docker",
@@ -803,7 +803,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T02:56:07Z",
-            "open_issues": 20,
+            "open_issues": 18,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 687,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:08:36.566Z",
+    "last_updated": "2026-10-09T11:07:43.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
@@ -1181,7 +1181,7 @@
       "open_issues": 2,
       "owner": "gites",
       "repo": "awesome-vault-tools",
-      "stars": 315,
+      "stars": 316,
       "topics": [
         "awesome",
         "awesome-list",
