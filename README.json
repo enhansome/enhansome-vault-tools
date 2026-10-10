@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3233,
+            "stars": 3232,
             "topics": [
               "aws",
               "hashicorp",
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "Boostport",
             "repo": "kubernetes-vault",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "kubernetes",
               "vault"
@@ -1075,7 +1075,7 @@
             "open_issues": 18,
             "owner": "channable",
             "repo": "vaultenv",
-            "stars": 467,
+            "stars": 466,
             "topics": [
               "gpbt"
             ]
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:07:43.302Z",
+    "last_updated": "2026-10-10T10:25:16.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",

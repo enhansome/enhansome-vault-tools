@@ -24,7 +24,7 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,233 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/spectralops/teller> ⭐ 3,232 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
 * <https://github.com/starkandwayne/safe> ⭐ 421 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
 * <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-04-29 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
@@ -64,7 +64,7 @@ Awesome tools around HashiCorp Vault
 
 # Other
 
-* <https://github.com/channable/vaultenv> ⭐ 467 | 🐛 18 | 🌐 Haskell | 📅 2026-09-22 - Launch processes with Vault secrets in the environment.
+* <https://github.com/channable/vaultenv> ⭐ 466 | 🐛 18 | 🌐 Haskell | 📅 2026-09-22 - Launch processes with Vault secrets in the environment.
 * <https://github.com/asteris-llc/vaultfs> ⭐ 131 | 🐛 6 | 🌐 Go | 📅 2016-11-29 - VaultFS mounts arbitrary Vault prefixes in a FUSE filesystem. It also provides a Docker volume plugin to the do the same for your containers.
 * <https://github.com/joemiller/vault-token-helper> ⭐ 117 | 🐛 17 | 🌐 Go | 📅 2023-04-05 - Vault Token Helper for macOS, Linux and Windows with support for secure token storage and multiple Vault instances
 * <https://github.com/gites/vault-cert-helper> ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2019-01-13 -
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
