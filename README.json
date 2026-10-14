@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2127,
+            "stars": 2128,
             "topics": [
               "bulma-css",
               "go",
@@ -49,7 +49,7 @@
             "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1313,
+            "stars": 1314,
             "topics": [
               "devops",
               "docker",
@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3233,
+            "stars": 3232,
             "topics": [
               "aws",
               "hashicorp",
@@ -1027,7 +1027,7 @@
             "open_issues": 0,
             "owner": "banzaicloud",
             "repo": "bank-vaults",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:24:57.844Z",
+    "last_updated": "2026-10-14T09:17:19.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
