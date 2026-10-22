@@ -13,7 +13,7 @@ Awesome tools around HashiCorp Vault
 # Plugins
 
 * <https://github.com/sethvargo/vault-secrets-gen> ⚠️ Archived - A Vault secrets plugin for generating high entropy passwords and passphrases.
-* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 322 | 🐛 12 | 🌐 Go | 📅 2025-11-13 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
+* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 323 | 🐛 12 | 🌐 Go | 📅 2025-11-13 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
 * <https://github.com/sethvargo/vault-auth-slack> ⚠️ Archived - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 * <https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin> ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-06-10 - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 * <https://github.com/idcmp/vault-plugin-secrets-webhook> ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2018-06-17 - Use Vault ACLs to control access to other REST APIs.
@@ -24,7 +24,7 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,232 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/spectralops/teller> ⭐ 3,233 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
 * <https://github.com/starkandwayne/safe> ⭐ 421 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
 * <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-04-29 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

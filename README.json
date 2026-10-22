@@ -78,7 +78,7 @@
             "open_issues": 11,
             "owner": "adobe",
             "repo": "cryptr",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "gui",
               "hashicorp",
@@ -164,7 +164,7 @@
             "open_issues": 12,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "github",
               "github-apps",
@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3232,
+            "stars": 3233,
             "topics": [
               "aws",
               "hashicorp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:07:18.555Z",
+    "last_updated": "2026-10-22T09:09:44.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
