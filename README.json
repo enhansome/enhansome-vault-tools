@@ -929,7 +929,7 @@
             "id": 86077742,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T11:02:21Z",
+            "last_commit": "2026-10-22T10:41:53Z",
             "open_issues": 7,
             "owner": "uswitch",
             "repo": "vault-creds",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:09:44.988Z",
+    "last_updated": "2026-10-23T09:06:17.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
