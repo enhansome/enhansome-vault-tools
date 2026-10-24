@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2128,
+            "stars": 2127,
             "topics": [
               "bulma-css",
               "go",
@@ -161,7 +161,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2025-11-13T23:07:09Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 323,
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "Boostport",
             "repo": "kubernetes-vault",
-            "stars": 935,
+            "stars": 934,
             "topics": [
               "kubernetes",
               "vault"
@@ -806,7 +806,7 @@
             "open_issues": 20,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 687,
+            "stars": 686,
             "topics": [
               "crd",
               "gitops",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "kelseyhightower",
             "repo": "vault-controller",
-            "stars": 443,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 18,
             "owner": "channable",
             "repo": "vaultenv",
-            "stars": 466,
+            "stars": 465,
             "topics": [
               "gpbt"
             ]
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:06:17.039Z",
+    "last_updated": "2026-10-24T08:39:10.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
