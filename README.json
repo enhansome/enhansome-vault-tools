@@ -802,8 +802,8 @@
             "id": 204312226,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T02:56:07Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-25T08:23:07Z",
+            "open_issues": 15,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 686,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:39:10.830Z",
+    "last_updated": "2026-10-25T08:57:04.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
