@@ -13,7 +13,7 @@ Awesome tools around HashiCorp Vault
 # Plugins
 
 * <https://github.com/sethvargo/vault-secrets-gen> ⚠️ Archived - A Vault secrets plugin for generating high entropy passwords and passphrases.
-* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 323 | 🐛 13 | 🌐 Go | 📅 2025-11-13 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
+* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 323 | 🐛 7 | 🌐 Go | 📅 2026-10-26 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
 * <https://github.com/sethvargo/vault-auth-slack> ⚠️ Archived - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 * <https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin> ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-06-10 - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 * <https://github.com/idcmp/vault-plugin-secrets-webhook> ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2018-06-17 - Use Vault ACLs to control access to other REST APIs.
@@ -40,7 +40,7 @@ Awesome tools around HashiCorp Vault
 
 # Users
 
-* <https://github.com/Lingrino/vaku> ⭐ 161 | 🐛 1 | 🌐 Go | 📅 2026-10-19 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
+* <https://github.com/Lingrino/vaku> ⭐ 162 | 🐛 1 | 🌐 Go | 📅 2026-10-19 - Vaku is a CLI and Go API that extends the official Vault CLI and API with useful high-level functions such as the ability to copy, move, and search vault paths and folders.
 * <https://github.com/apptio/breakglass> ⚠️ Archived - Breakglass is a tool that will make API calls to Hashicorp Vault servers and then retrieve credentials for you. It's designed to ease the process of getting elevated login credentials for a variety of servers. It currently supports MySQL servers and SSH Command line access.
 * <https://github.com/Mykolaichenko/vaulter> ⭐ 26 | 🐛 2 | 🌐 Go | 📅 2020-01-14 - Vaulter extends default Hashicorp Vault client, implements additional methods like list all backend path, dynamically read value, search in all backend and so on.
 * <https://github.com/ilijamt/vht/> ⭐ 8 | 🐛 8 | 🌐 Go | 📅 2026-04-03 - vht extends the functionality of Vault and adds searching, tree and recursive deletes.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

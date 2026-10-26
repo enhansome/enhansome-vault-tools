@@ -160,8 +160,8 @@
             "id": 223704264,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2025-11-13T23:07:09Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-26T08:38:41Z",
+            "open_issues": 7,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 323,
@@ -673,7 +673,7 @@
             "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "cli",
               "go",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:57:04.022Z",
+    "last_updated": "2026-10-26T09:43:02.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
