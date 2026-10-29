@@ -13,7 +13,7 @@ Awesome tools around HashiCorp Vault
 # Plugins
 
 * <https://github.com/sethvargo/vault-secrets-gen> ⚠️ Archived - A Vault secrets plugin for generating high entropy passwords and passphrases.
-* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 324 | 🐛 7 | 🌐 Go | 📅 2026-10-26 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
+* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 324 | 🐛 8 | 🌐 Go | 📅 2026-10-26 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
 * <https://github.com/sethvargo/vault-auth-slack> ⚠️ Archived - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 * <https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin> ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-06-10 - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 * <https://github.com/idcmp/vault-plugin-secrets-webhook> ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2018-06-17 - Use Vault ACLs to control access to other REST APIs.
@@ -24,7 +24,7 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,232 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/spectralops/teller> ⭐ 3,233 | 🐛 52 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
 * <https://github.com/starkandwayne/safe> ⭐ 421 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
 * <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-04-29 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
@@ -55,7 +55,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 * <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 20 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
-* <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-10-22 - Sidecar container for requesting dynamic Vault database secrets.
+* <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-10-28 - Sidecar container for requesting dynamic Vault database secrets.
 * <https://github.com/postfinance/vault-kubernetes> ⭐ 78 | 🐛 10 | 🌐 Go | 📅 2026-09-28 - Authenticate services to @hashicorp Vault via the Kubernetes auth method.
 * <https://github.com/uswitch/vault-webhook> ⭐ 25 | 🐛 0 | 🌐 Go | 📅 2026-04-27 - Kubernetes Mutating Webhook to inject Vault-Creds Sidecar into pods.
 * <https://github.com/postfinance/kubectl-vault_sync> ⚠️ Archived - Kubernetes plugin to synchronize secrets from vault as kubernetes secrets.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

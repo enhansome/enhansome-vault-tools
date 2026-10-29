@@ -161,7 +161,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:08:45Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 324,
@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3232,
+            "stars": 3233,
             "topics": [
               "aws",
               "hashicorp",
@@ -929,7 +929,7 @@
             "id": 86077742,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T10:41:53Z",
+            "last_commit": "2026-10-28T12:01:08Z",
             "open_issues": 7,
             "owner": "uswitch",
             "repo": "vault-creds",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:21:17.123Z",
+    "last_updated": "2026-10-29T10:42:40.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
