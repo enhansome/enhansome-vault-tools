@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3233,
+            "stars": 3234,
             "topics": [
               "aws",
               "hashicorp",
@@ -701,7 +701,7 @@
             "open_issues": 2,
             "owner": "apptio",
             "repo": "breakglass",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "ease",
               "golang",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:42:41.844Z",
+    "last_updated": "2026-10-31T10:11:36.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
