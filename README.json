@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2126,
+            "stars": 2125,
             "topics": [
               "bulma-css",
               "go",
@@ -160,8 +160,8 @@
             "id": 223704264,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T22:08:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-31T13:02:33Z",
+            "open_issues": 9,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 324,
@@ -366,7 +366,7 @@
             "open_issues": 52,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3234,
+            "stars": 3236,
             "topics": [
               "aws",
               "hashicorp",
@@ -802,8 +802,8 @@
             "id": 204312226,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T08:23:07Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-01T02:54:54Z",
+            "open_issues": 17,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 686,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:11:36.087Z",
+    "last_updated": "2026-11-01T11:01:32.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
