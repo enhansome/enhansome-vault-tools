@@ -160,8 +160,8 @@
             "id": 223704264,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T13:02:33Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-05T23:20:19Z",
+            "open_issues": 7,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
             "stars": 326,
@@ -412,8 +412,8 @@
             "id": 107568944,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-04-29T18:00:47Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-05T16:02:15Z",
+            "open_issues": 1,
             "owner": "avantoss",
             "repo": "vault-infra",
             "stars": 228,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:51:36.171Z",
+    "last_updated": "2026-11-06T11:48:59.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
