@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2125,
+            "stars": 2126,
             "topics": [
               "bulma-css",
               "go",
@@ -366,7 +366,7 @@
             "open_issues": 53,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3238,
+            "stars": 3239,
             "topics": [
               "aws",
               "hashicorp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:31:33.342Z",
+    "last_updated": "2026-11-10T12:05:59.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
