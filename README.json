@@ -49,7 +49,7 @@
             "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1312,
+            "stars": 1311,
             "topics": [
               "devops",
               "docker",
@@ -164,7 +164,7 @@
             "open_issues": 7,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "github",
               "github-apps",
@@ -669,8 +669,8 @@
             "id": 130797787,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-03T05:49:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T08:00:51Z",
+            "open_issues": 2,
             "owner": "lingrino",
             "repo": "vaku",
             "stars": 162,
@@ -802,8 +802,8 @@
             "id": 204312226,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:53:58Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-14T03:47:37Z",
+            "open_issues": 19,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 686,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:51:38.385Z",
+    "last_updated": "2026-11-14T11:12:39.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
