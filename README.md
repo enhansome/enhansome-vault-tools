@@ -13,7 +13,7 @@ Awesome tools around HashiCorp Vault
 # Plugins
 
 * <https://github.com/sethvargo/vault-secrets-gen> ⚠️ Archived - A Vault secrets plugin for generating high entropy passwords and passphrases.
-* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 329 | 🐛 7 | 🌐 Go | 📅 2026-11-05 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
+* <https://github.com/martinbaillie/vault-plugin-secrets-github> ⭐ 330 | 🐛 8 | 🌐 Go | 📅 2026-11-14 - A Vault secrets plugin for creating ephemeral, finely-scoped GitHub access tokens.
 * <https://github.com/sethvargo/vault-auth-slack> ⚠️ Archived - The Vault Auth Slack method is a Vault auth method plugin for authenticating users via Slack. The plugin can run in multiple different "modes" depending on your desired user workflow and risk tolerance. This is both a real custom Vault auth method, and an example of how to build, install, and maintain your own Vault auth plugin.
 * <https://github.com/fcantournet/kubernetes-flexvolume-vault-plugin> ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2019-06-10 - A kubernetes flexvolume plugin that injects vault tokens at pod creation
 * <https://github.com/idcmp/vault-plugin-secrets-webhook> ⭐ 14 | 🐛 1 | 🌐 Go | 📅 2018-06-17 - Use Vault ACLs to control access to other REST APIs.
@@ -52,7 +52,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/Boostport/kubernetes-vault> ⚠️ Archived - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
 * <https://github.com/ricoberger/vault-secrets-operator> ⭐ 686 | 🐛 19 | 🌐 Go | 📅 2026-11-14 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * <https://github.com/kelseyhightower/vault-controller> ⭐ 442 | 🐛 11 | 🌐 Go | 📅 2019-10-04 - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
-* <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
+* <https://github.com/cruise-automation/daytona> ⭐ 327 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 * <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 20 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 * <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-10-28 - Sidecar container for requesting dynamic Vault database secrets.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

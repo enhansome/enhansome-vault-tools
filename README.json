@@ -160,11 +160,11 @@
             "id": 223704264,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T23:20:19Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-14T13:02:20Z",
+            "open_issues": 8,
             "owner": "martinbaillie",
             "repo": "vault-plugin-secrets-github",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "github",
               "github-apps",
@@ -858,7 +858,7 @@
             "open_issues": 17,
             "owner": "cruise-automation",
             "repo": "daytona",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "aws",
               "gcp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:12:39.405Z",
+    "last_updated": "2026-11-15T11:45:19.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
