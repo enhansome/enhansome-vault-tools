@@ -395,7 +395,7 @@
             "open_issues": 19,
             "owner": "egen",
             "repo": "safe",
-            "stars": 422,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:25:59.814Z",
+    "last_updated": "2026-11-17T12:46:32.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
