@@ -806,7 +806,7 @@
             "open_issues": 19,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 686,
+            "stars": 688,
             "topics": [
               "crd",
               "gitops",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:46:32.677Z",
+    "last_updated": "2026-11-18T12:39:27.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
