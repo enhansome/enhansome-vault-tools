@@ -413,7 +413,7 @@
             "language": "HCL",
             "license": "MIT",
             "last_commit": "2026-11-05T16:02:15Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "avantoss",
             "repo": "vault-infra",
             "stars": 228,
@@ -669,8 +669,8 @@
             "id": 130797787,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:00:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-19T04:58:09Z",
+            "open_issues": 1,
             "owner": "lingrino",
             "repo": "vaku",
             "stars": 162,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:39:27.485Z",
+    "last_updated": "2026-11-19T12:29:59.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",
