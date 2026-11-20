@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "Caiyeon",
             "repo": "goldfish",
-            "stars": 2126,
+            "stars": 2125,
             "topics": [
               "bulma-css",
               "go",
@@ -49,7 +49,7 @@
             "open_issues": 50,
             "owner": "djenriquez",
             "repo": "vault-ui",
-            "stars": 1311,
+            "stars": 1310,
             "topics": [
               "devops",
               "docker",
@@ -366,7 +366,7 @@
             "open_issues": 53,
             "owner": "tellerops",
             "repo": "teller",
-            "stars": 3239,
+            "stars": 3238,
             "topics": [
               "aws",
               "hashicorp",
@@ -395,7 +395,7 @@
             "open_issues": 19,
             "owner": "egen",
             "repo": "safe",
-            "stars": 423,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-28T15:54:29.546Z"
@@ -412,8 +412,8 @@
             "id": 107568944,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:02:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-19T16:02:18Z",
+            "open_issues": 1,
             "owner": "avantoss",
             "repo": "vault-infra",
             "stars": 228,
@@ -858,7 +858,7 @@
             "open_issues": 17,
             "owner": "cruise-automation",
             "repo": "daytona",
-            "stars": 327,
+            "stars": 326,
             "topics": [
               "aws",
               "gcp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:29:59.891Z",
+    "last_updated": "2026-11-20T12:29:52.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools around HashiCorp Vault",

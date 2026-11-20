@@ -24,9 +24,9 @@ Awesome tools around HashiCorp Vault
 
 # Ops
 
-* <https://github.com/spectralops/teller> ⭐ 3,239 | 🐛 53 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
-* <https://github.com/starkandwayne/safe> ⭐ 423 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
-* <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 0 | 🌐 HCL | 📅 2026-11-05 -  Packer and Terraform to create a fully automated and HA Vault deployment.
+* <https://github.com/spectralops/teller> ⭐ 3,238 | 🐛 53 | 🌐 Rust | 📅 2026-01-27 - secrets management tool for developers, integrate Vault with any other secret and key store
+* <https://github.com/starkandwayne/safe> ⭐ 422 | 🐛 19 | 🌐 Go | 📅 2024-02-16 - A Vault CLI.
+* <https://github.com/avantoss/vault-infra> ⭐ 228 | 🐛 1 | 🌐 HCL | 📅 2026-11-19 -  Packer and Terraform to create a fully automated and HA Vault deployment.
 * <https://github.com/seatgeek/hashi-helper> ⭐ 185 | 🐛 12 | 🌐 Go | 📅 2024-06-25 - A tool meant to enable Disaster Recovery and Configuration Management for Consul and Vault clusters, by exposing configuration via a simple to use and share hcl format.
 * <https://github.com/jaxxstorm/hookpick> ⚠️ Archived - A tool to manage some operational concepts of Hashicorp Vault.
 * <https://github.com/jaxxstorm/unseal> ⚠️ Archived - **\[deprecated]** A command line tool to unseal multiple Hashicorp Vault servers quickly.
@@ -52,7 +52,7 @@ Awesome tools around HashiCorp Vault
 * <https://github.com/Boostport/kubernetes-vault> ⚠️ Archived - The Kubernetes-Vault project allows pods to automatically receive a Vault token using Vault's AppRole auth backend.
 * <https://github.com/ricoberger/vault-secrets-operator> ⭐ 688 | 🐛 19 | 🌐 Go | 📅 2026-11-14 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * <https://github.com/kelseyhightower/vault-controller> ⭐ 442 | 🐛 11 | 🌐 Go | 📅 2019-10-04 - The Vault Controller automates the creation of Vault tokens for Kubernetes Pods. This repo includes a set of hands-on tutorials and example programs you can use to try out the Vault Controller.
-* <https://github.com/cruise-automation/daytona> ⭐ 327 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
+* <https://github.com/cruise-automation/daytona> ⭐ 326 | 🐛 17 | 🌐 Go | 📅 2025-04-28 - This is intended to be a lighter, alternative, implementation of the Vault client CLI primarily for services and containers. Its core features are the ability to automate authentication, fetching of secrets, and automated token renewal. Supports K8s, AWS IAM and GCP IAM auth methods.
 * <https://github.com/sethvargo/vault-kubernetes-authenticator> ⚠️ Archived - An app and container for authenticating services to HashiCorp Vault's via the Kubernetes auth method.
 * <https://github.com/UKHomeOffice/vault-sidekick> ⭐ 194 | 🐛 20 | 🌐 Go | 📅 2026-07-03 - Vault Sidekick is a add-on container which can be used as a generic entry-point for interacting with Hashicorp Vault service, retrieving secrets (both static and dynamic) and PKI certs. The sidekick will take care of renewal's and extension of leases for you and renew the credentials in the specified format for you.
 * <https://github.com/uswitch/vault-creds> ⭐ 84 | 🐛 7 | 🌐 Go | 📅 2026-10-28 - Sidecar container for requesting dynamic Vault database secrets.
@@ -73,4 +73,4 @@ Awesome tools around HashiCorp Vault
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
